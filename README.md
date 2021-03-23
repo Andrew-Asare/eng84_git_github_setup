@@ -16,7 +16,7 @@ cd name_of_the_project`
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 -Press ENTER in all the steps, leaving empty the gap.
 
-### STEP 4 - FIND YOUR KEY AND ADD THE KEY IN YOUR ACCOUNT OF GIT-HUB
+### STEP 4 - FIND AND ADD THE KEY IN YOUR GIT-HUB ACCOUNT
 - Open GIT BASH
 You should navigate to find the SSH key pair by using:
 `cd /c/Users/your_account/.ssh`
