@@ -13,7 +13,9 @@
 `mkdir name_of_the_project
 cd name_of_the_project`
 -Type the following command to generate the SSH key:
+
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+
 -Press ENTER in all the steps, leaving empty the gap.
 
 ### STEP 4 - FIND AND ADD THE KEY IN YOUR GIT-HUB ACCOUNT
