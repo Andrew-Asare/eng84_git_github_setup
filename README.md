@@ -32,7 +32,8 @@ List the directory by using:
 -Click on the option Add a new SSH key.
 -Write down a logical name of the Key related to the project, and paste the key.
  -Finally click add SSH key and we will save the public key in our account of Git-Hub
-###STEP 5 - CREATE REPOSITORY ON THE COMMAND LINE
+ 
+### STEP 5 - CREATE REPOSITORY ON THE COMMAND LINE
 -Open GIT BASH
 -Go back again in your folder where you will saved your project in the local machine.
 -Follow the following commands: Create the file README
